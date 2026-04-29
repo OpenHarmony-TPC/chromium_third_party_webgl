@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "WebGL",
+        "License": "MIT",
+        "License File": "LICENSE.txt",
+        "Version Number": "c01b768bce4a143e152c1870b6ba99ea6267d2b0",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://github.com/KhronosGroup/WebGL@c01b768bce4a143e152c1870b6ba99ea6267d2b0",
+        "Description": "第三方软件webgl，WebGL规范和合规测试套件"
+    }
+]
